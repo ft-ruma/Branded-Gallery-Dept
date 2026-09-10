@@ -1,0 +1,28 @@
+# Nuxt dev/build output
+.output
+.data
+.nuxt
+.nitro
+.cache
+dist
+
+# Cloudflare / Wrangler
+.wrangler
+
+# Node dependencies
+node_modules
+
+# Logs
+logs
+*.log
+
+# Local env files
+.env
+.env.*
+!.env.example
+
+# Editors & OS
+.DS_Store
+.idea
+.fleet
+.vscode
