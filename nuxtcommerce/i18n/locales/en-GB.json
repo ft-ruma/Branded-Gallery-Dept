@@ -15,6 +15,72 @@
     "favorites": "Favorites",
     "products": "Products"
   },
+  "home": {
+    "hero": {
+      "badge": "New in this week",
+      "title": "Pieces worth the wardrobe space.",
+      "description": "Browse the full {site} collection — everything in stock, with prices and delivery shown up front.",
+      "primary_cta": "Shop new arrivals",
+      "secondary_cta": "Browse categories",
+      "note": "Free returns within 15 days · Secure checkout"
+    },
+    "categories": {
+      "title": "Shop by category",
+      "subtitle": "Jump straight to the part of the shop you came for.",
+      "link": "All categories"
+    },
+    "new_arrivals": {
+      "title": "New arrivals",
+      "subtitle": "The latest additions to the collection.",
+      "link": "View all"
+    },
+    "value_picks": {
+      "title": "Easy on the budget",
+      "subtitle": "In stock, and the kindest prices we have right now.",
+      "link": "View all"
+    },
+    "promo": {
+      "deals": {
+        "badge": "Best value",
+        "title": "Lowest prices first.",
+        "description": "Sort the whole shop by price and see exactly how far your budget goes.",
+        "cta": "Shop by price"
+      },
+      "wishlist": {
+        "title": "Keep a list of what you love",
+        "description": "Tap the heart on any product to save it. Your list stays on this device, ready when you are.",
+        "cta": "Open favorites"
+      }
+    },
+    "value_props": {
+      "shipping": {
+        "title": "Tracked delivery",
+        "description": "Every order ships tracked, with delivery costs shown before you pay."
+      },
+      "returns": {
+        "title": "15-day returns",
+        "description": "Changed your mind? Send it back within 15 days, free of charge."
+      },
+      "secure": {
+        "title": "Secure checkout",
+        "description": "Payment details are handled over an encrypted connection, every time."
+      },
+      "support": {
+        "title": "Here to help",
+        "description": "Questions about sizing, stock or an order? Get in touch any time."
+      }
+    },
+    "cta": {
+      "title": "The whole shop, one tap away.",
+      "description": "Filter by category, sort by price, and save what you love for later.",
+      "primary": "Shop all products",
+      "secondary": "Browse categories"
+    },
+    "rail": {
+      "previous": "Previous products",
+      "next": "Next products"
+    }
+  },
   "footer": {
     "developed_by_author": "by {author}",
     "change_language": "Change language"

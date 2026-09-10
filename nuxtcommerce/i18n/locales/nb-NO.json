@@ -15,6 +15,72 @@
     "favorites": "Favoritter",
     "products": "Produkter"
   },
+  "home": {
+    "hero": {
+      "badge": "Nytt denne uken",
+      "title": "Plagg som fortjener plassen i skapet.",
+      "description": "Se hele kolleksjonen fra {site} — alt på lager, med priser og levering synlig fra start.",
+      "primary_cta": "Se nyheter",
+      "secondary_cta": "Se kategorier",
+      "note": "Gratis retur innen 15 dager · Sikker betaling"
+    },
+    "categories": {
+      "title": "Handle etter kategori",
+      "subtitle": "Gå rett til den delen av butikken du kom for.",
+      "link": "Alle kategorier"
+    },
+    "new_arrivals": {
+      "title": "Nyheter",
+      "subtitle": "Det siste som har kommet inn i kolleksjonen.",
+      "link": "Se alle"
+    },
+    "value_picks": {
+      "title": "Snilt mot lommeboken",
+      "subtitle": "På lager, med de beste prisene vi har nå.",
+      "link": "Se alle"
+    },
+    "promo": {
+      "deals": {
+        "badge": "Beste pris",
+        "title": "Laveste priser først.",
+        "description": "Sorter hele butikken etter pris og se nøyaktig hvor langt budsjettet strekker seg.",
+        "cta": "Handle etter pris"
+      },
+      "wishlist": {
+        "title": "Ta vare på det du liker",
+        "description": "Trykk på hjertet på et produkt for å lagre det. Listen blir liggende på denne enheten.",
+        "cta": "Åpne favoritter"
+      }
+    },
+    "value_props": {
+      "shipping": {
+        "title": "Sporbar levering",
+        "description": "Alle bestillinger sendes sporbart, og fraktkostnaden vises før du betaler."
+      },
+      "returns": {
+        "title": "15 dagers retur",
+        "description": "Ombestemt deg? Send det tilbake innen 15 dager, helt gratis."
+      },
+      "secure": {
+        "title": "Sikker betaling",
+        "description": "Betalingsdetaljer sendes alltid over en kryptert forbindelse."
+      },
+      "support": {
+        "title": "Vi hjelper deg gjerne",
+        "description": "Spørsmål om størrelser, lager eller bestillingen din? Ta kontakt når som helst."
+      }
+    },
+    "cta": {
+      "title": "Hele butikken, ett trykk unna.",
+      "description": "Filtrer på kategori, sorter etter pris, og lagre favorittene til senere.",
+      "primary": "Se alle produkter",
+      "secondary": "Se kategorier"
+    },
+    "rail": {
+      "previous": "Forrige produkter",
+      "next": "Neste produkter"
+    }
+  },
   "footer": {
     "developed_by_author": "av {author}",
     "change_language": "Endre språk"

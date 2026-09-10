@@ -9,33 +9,3 @@
     </div>
   </div>
 </template>
-
-<style lang="postcss">
-.dark .skeleton {
-  --skeleton-bg: #141414;
-}
-
-.skeleton {
-  --skeleton-bg: #f5f5f5;
-}
-
-.skeleton {
-  @apply relative overflow-hidden;
-  &:before {
-    @apply absolute w-full h-full;
-    content: '';
-    background: linear-gradient(110deg, rgba(0, 0, 0, 0) 25%, var(--skeleton-bg) 50%, rgba(0, 0, 0, 0) 75%);
-    background-size: 400% 100%;
-    animation: shimmer 4s infinite linear;
-  }
-}
-
-@keyframes shimmer {
-  0% {
-    background-position: 200% 0;
-  }
-  100% {
-    background-position: -200% 0;
-  }
-}
-</style>

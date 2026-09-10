@@ -15,6 +15,72 @@
     "favorites": "Favorieten",
     "products": "Producten"
   },
+  "home": {
+    "hero": {
+      "badge": "Nieuw deze week",
+      "title": "Items die de ruimte in je kast waard zijn.",
+      "description": "Bekijk de volledige collectie van {site} — alles op voorraad, met prijzen en levering direct in beeld.",
+      "primary_cta": "Bekijk nieuwe items",
+      "secondary_cta": "Bekijk categorieën",
+      "note": "Gratis retourneren binnen 15 dagen · Veilig afrekenen"
+    },
+    "categories": {
+      "title": "Shop per categorie",
+      "subtitle": "Ga direct naar het deel van de winkel waarvoor je komt.",
+      "link": "Alle categorieën"
+    },
+    "new_arrivals": {
+      "title": "Nieuw binnen",
+      "subtitle": "De nieuwste aanwinsten in de collectie.",
+      "link": "Bekijk alles"
+    },
+    "value_picks": {
+      "title": "Vriendelijk voor je budget",
+      "subtitle": "Op voorraad, met de scherpste prijzen van nu.",
+      "link": "Bekijk alles"
+    },
+    "promo": {
+      "deals": {
+        "badge": "Beste prijs",
+        "title": "Laagste prijzen eerst.",
+        "description": "Sorteer de hele winkel op prijs en zie precies hoe ver je budget reikt.",
+        "cta": "Shop op prijs"
+      },
+      "wishlist": {
+        "title": "Bewaar wat je mooi vindt",
+        "description": "Tik op het hartje bij elk product om het te bewaren. Je lijst blijft op dit apparaat staan.",
+        "cta": "Favorieten openen"
+      }
+    },
+    "value_props": {
+      "shipping": {
+        "title": "Verzending met tracking",
+        "description": "Elke bestelling wordt verzonden met tracking, en de kosten zie je voordat je betaalt."
+      },
+      "returns": {
+        "title": "15 dagen retour",
+        "description": "Toch niet wat je zocht? Stuur het binnen 15 dagen gratis terug."
+      },
+      "secure": {
+        "title": "Veilig afrekenen",
+        "description": "Betaalgegevens gaan altijd via een versleutelde verbinding."
+      },
+      "support": {
+        "title": "Wij helpen je graag",
+        "description": "Vragen over maten, voorraad of je bestelling? Neem gerust contact op."
+      }
+    },
+    "cta": {
+      "title": "De hele winkel, één tik verderop.",
+      "description": "Filter op categorie, sorteer op prijs en bewaar je favorieten voor later.",
+      "primary": "Bekijk alle producten",
+      "secondary": "Bekijk categorieën"
+    },
+    "rail": {
+      "previous": "Vorige producten",
+      "next": "Volgende producten"
+    }
+  },
   "footer": {
     "developed_by_author": "door {author}",
     "change_language": "Taal wijzigen"

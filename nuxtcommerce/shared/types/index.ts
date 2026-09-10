@@ -19,6 +19,44 @@ export interface ProductNode {
   name: string;
 }
 
+export interface ImageNode {
+  sourceUrl: string;
+}
+
+export interface FeedProduct extends ProductNode {
+  regularPrice?: Money;
+  salePrice?: Money;
+  image?: ImageNode;
+  galleryImages?: { nodes: ImageNode[] };
+  allPaStyle?: { nodes: Array<{ name: string }> };
+}
+
+export interface ProductsFeedResponse {
+  products: {
+    nodes: FeedProduct[];
+    pageInfo?: { hasNextPage: boolean; endCursor: string | null };
+  };
+}
+
+export interface CategoryNode {
+  id: string;
+  name: string;
+  image?: ImageNode;
+  products: { nodes: Array<{ id: string }> };
+  children: { nodes: CategoryNode[] };
+}
+
+export interface CategoriesResponse {
+  productCategories: { nodes: CategoryNode[] };
+}
+
+export interface ProductFeedQuery {
+  search?: string;
+  category?: string;
+  field?: 'DATE' | 'PRICE';
+  order?: 'ASC' | 'DESC';
+}
+
 export interface CartItem {
   key: string;
   quantity: number;

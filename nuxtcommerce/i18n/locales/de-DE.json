@@ -15,6 +15,72 @@
     "favorites": "Favoriten",
     "products": "Produkte"
   },
+  "home": {
+    "hero": {
+      "badge": "Neu in dieser Woche",
+      "title": "Stücke, die den Platz im Schrank verdienen.",
+      "description": "Entdecken Sie die komplette Kollektion von {site} – alles auf Lager, mit Preisen und Lieferung auf den ersten Blick.",
+      "primary_cta": "Neuheiten entdecken",
+      "secondary_cta": "Kategorien ansehen",
+      "note": "Kostenlose Rücksendung innerhalb von 15 Tagen · Sicherer Checkout"
+    },
+    "categories": {
+      "title": "Nach Kategorie shoppen",
+      "subtitle": "Springen Sie direkt in den Bereich, der Sie interessiert.",
+      "link": "Alle Kategorien"
+    },
+    "new_arrivals": {
+      "title": "Neuheiten",
+      "subtitle": "Die neuesten Zugänge in der Kollektion.",
+      "link": "Alle ansehen"
+    },
+    "value_picks": {
+      "title": "Günstige Favoriten",
+      "subtitle": "Auf Lager und schonend zum Budget.",
+      "link": "Alle ansehen"
+    },
+    "promo": {
+      "deals": {
+        "badge": "Beste Preise",
+        "title": "Niedrigste Preise zuerst.",
+        "description": "Sortieren Sie das gesamte Sortiment nach Preis und sehen Sie genau, wie weit Ihr Budget reicht.",
+        "cta": "Nach Preis shoppen"
+      },
+      "wishlist": {
+        "title": "Merken, was Ihnen gefällt",
+        "description": "Tippen Sie bei jedem Produkt auf das Herz. Ihre Liste bleibt auf diesem Gerät gespeichert.",
+        "cta": "Favoriten öffnen"
+      }
+    },
+    "value_props": {
+      "shipping": {
+        "title": "Sendungsverfolgung",
+        "description": "Jede Bestellung wird mit Sendungsverfolgung versandt – die Kosten sehen Sie vor dem Bezahlen."
+      },
+      "returns": {
+        "title": "15 Tage Rückgabe",
+        "description": "Umentschieden? Senden Sie es innerhalb von 15 Tagen kostenlos zurück."
+      },
+      "secure": {
+        "title": "Sicherer Checkout",
+        "description": "Zahlungsdaten werden immer über eine verschlüsselte Verbindung übertragen."
+      },
+      "support": {
+        "title": "Wir helfen gern",
+        "description": "Fragen zu Größen, Verfügbarkeit oder Ihrer Bestellung? Melden Sie sich jederzeit."
+      }
+    },
+    "cta": {
+      "title": "Das ganze Sortiment, nur einen Klick entfernt.",
+      "description": "Nach Kategorie filtern, nach Preis sortieren und Lieblingsstücke für später speichern.",
+      "primary": "Alle Produkte ansehen",
+      "secondary": "Kategorien ansehen"
+    },
+    "rail": {
+      "previous": "Vorherige Produkte",
+      "next": "Nächste Produkte"
+    }
+  },
   "footer": {
     "developed_by_author": "von {author}",
     "change_language": "Sprache ändern"
